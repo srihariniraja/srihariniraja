@@ -1,7 +1,7 @@
 ```text
 P. SRI HARINI
 B.TECH (HONORS) 
-+91 9025198199 | srihariniraja2309@gmail.com
+srihariniraja2309@gmail.com
 
 PROFESSIONAL OVERVIEW 
 Data science student with experience in data collection, preparation, analysis, and visualization. Applying data science techniques to policy research, fintech, and SME credit risk assessment.
