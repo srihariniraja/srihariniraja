@@ -1,10 +1,10 @@
+```text
 P. SRI HARINI
 B.TECH (HONORS) 
 +91 9025198199 | srihariniraja2309@gmail.com
 
 PROFESSIONAL OVERVIEW 
-Data science student with experience in data collection, preparation, analysis, and visualization. Applying data science techniques to policy research, fintech, and SME credit risk
-assessment.
+Data science student with experience in data collection, preparation, analysis, and visualization. Applying data science techniques to policy research, fintech, and SME credit risk assessment.
 Built 3 full-stack projects combining analytics with web development.
 
 TECHNICAL SKILLS 
@@ -23,3 +23,4 @@ Developed financial tracking application for storing digital payment proofs, spl
 
 SME CREDIT RISK ASSESSMENT PLATFORM | Python, Pandas, NumPy, Matplotlib
 Built centralized platform to analyze financial data of small and medium enterprises
+```
